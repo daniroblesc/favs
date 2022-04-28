@@ -12,7 +12,12 @@ This is a repository listing favorites links and other resources
 # Job Boards
 * [The Pragmatic Engineer](https://pragmatic-engineer.pallet.com/jobs)
 * [github.com/remote-es/remotes](https://github.com/remote-es/remotes)
+* [arc()](https://arc.dev/)
 
 # Articles
+## OO Design
+* [The Liskov Substitution Principle Explained](https://reflectoring.io/lsp-explained/)
+
 ## Project Management
 * [Great engineering teams focus on milestones instead of projects](https://www.rubick.com/milestones-not-projects/)
+* [Efficient Software Project Management at its Roots](https://blog.pragmaticengineer.com/efficient-software-project-management-at-its-roots/)
