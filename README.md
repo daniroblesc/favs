@@ -1,20 +1,20 @@
 # Introduction
 This is a repository listing favorites links and other resources
 
-# Blogs
+# 1. Blogs
 * [The talking bit](https://franiglesias.github.io/)
 * [The Pragmatic Engineer](https://blog.pragmaticengineer.com/)
 * [Félix López](https://flopezluis.medium.com/)
 
-# Youtube
+# 2. Youtube
 * [The Pragmatic Engineer](https://www.youtube.com/channel/UCPbwhExawYrn9xxI21TFfyw)
 
-# Job Boards
+# 3. Job Boards
 * [The Pragmatic Engineer](https://pragmatic-engineer.pallet.com/jobs)
 * [github.com/remote-es/remotes](https://github.com/remote-es/remotes)
 * [arc()](https://arc.dev/)
 
-# Articles
+# 4. Articles
 ## OO Design
 * [The Liskov Substitution Principle Explained](https://reflectoring.io/lsp-explained/)
 * [SOLID Design Principles Explained: The Liskov Substitution Principle with Code Examples](https://stackify.com/solid-design-liskov-substitution-principle/)
@@ -34,6 +34,6 @@ This is a repository listing favorites links and other resources
 ## Management
 * [IF MANAGEMENT ISN’T A PROMOTION, THEN ENGINEERING ISN’T A DEMOTION](https://charity.wtf/2020/09/06/if-management-isnt-a-promotion-then-engineering-isnt-a-demotion/)
 
-# Repositories
+# 5. Repositories
 
 * [The Algorithms](https://github.com/TheAlgorithms)
