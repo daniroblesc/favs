@@ -30,11 +30,11 @@ This is a repository listing favorites links and other resources
 * [The Algorithms](https://github.com/TheAlgorithms)
 * [AddressSanitizer](https://github.com/google/sanitizers/wiki/AddressSanitizer)
 
-# X. Books
-[I'm a relative reference to a repository file](/books/99BottlesOfOOP.md)
+# 7. Books
+[99 Bottles of OOP](/books/99BottlesOfOOP.md)
 
 
-# 7. Articles
+# 8. Articles
 
 ## Coding
 * [Demystifying C++ lambdas](https://blog.feabhas.com/2014/03/demystifying-c-lambdas/)
