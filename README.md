@@ -16,6 +16,7 @@ This is a repository listing favorites links and other resources
 
 # 4. Guides
 * [git - la guía sencilla](http://rogerdudler.github.io/git-guide/index.es.html)
+* [Writing Testable Code ](http://misko.hevery.com/attachments/Guide-Writing%20Testable%20Code.pdf)
 
 # 5. Articles
 
@@ -32,15 +33,16 @@ This is a repository listing favorites links and other resources
 
 ## Testing
 * [Writing Testable Code](https://testing.googleblog.com/2008/08/by-miko-hevery-so-you-decided-to.html)
+* [Google Testing Blog](https://testing.googleblog.com/)
 
 ## Project Management
 * [Patterns for Managing Source Code Branches](https://martinfowler.com/articles/branching-patterns.html)
 * [Great engineering teams focus on milestones instead of projects](https://www.rubick.com/milestones-not-projects/)
 * [Efficient Software Project Management at its Roots](https://blog.pragmaticengineer.com/efficient-software-project-management-at-its-roots/)
+* [The Amazing DevOps Transformation Of The HP LaserJet Firmware Team](https://itrevolution.com/the-amazing-devops-transformation-of-the-hp-laserjet-firmware-team-gary-gruver/)
 
 ## Management
 * [IF MANAGEMENT ISN’T A PROMOTION, THEN ENGINEERING ISN’T A DEMOTION](https://charity.wtf/2020/09/06/if-management-isnt-a-promotion-then-engineering-isnt-a-demotion/)
 
 # 6. Repositories
-
 * [The Algorithms](https://github.com/TheAlgorithms)
