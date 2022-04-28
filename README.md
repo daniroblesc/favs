@@ -14,16 +14,16 @@ This is a repository listing favorites links and other resources
 * [github.com/remote-es/remotes](https://github.com/remote-es/remotes)
 * [arc()](https://arc.dev/)
 
-# 4. Guías
+# 4. Guides
 * [git - la guía sencilla](http://rogerdudler.github.io/git-guide/index.es.html)
 
 # 5. Articles
+
 ## OO Design
 * [The Liskov Substitution Principle Explained](https://reflectoring.io/lsp-explained/)
 * [SOLID Design Principles Explained: The Liskov Substitution Principle with Code Examples](https://stackify.com/solid-design-liskov-substitution-principle/)
-
-## Coding
 * [Object Calisthenics](https://williamdurand.fr/2013/06/03/object-calisthenics/)
+* [Improving OO Design by Removing Old Habits](https://www.youtube.com/watch?v=JMssBdJOSMQ)
 
 ## Refactoring
 * [Refactor 101. The camp rule](https://franiglesias.github.io/refactoring-camp-rule/)
@@ -31,6 +31,7 @@ This is a repository listing favorites links and other resources
 * [Source Making](https://sourcemaking.com/)
 
 ## Testing
+* [Writing Testable Code](https://testing.googleblog.com/2008/08/by-miko-hevery-so-you-decided-to.html)
 
 ## Project Management
 * [Patterns for Managing Source Code Branches](https://martinfowler.com/articles/branching-patterns.html)
