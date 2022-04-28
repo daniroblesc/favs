@@ -30,6 +30,10 @@ This is a repository listing favorites links and other resources
 * [The Algorithms](https://github.com/TheAlgorithms)
 * [AddressSanitizer](https://github.com/google/sanitizers/wiki/AddressSanitizer)
 
+# X. Books
+[I'm a relative reference to a repository file](/books/99BottlesOfOOP.md)
+
+
 # 7. Articles
 
 ## Coding
