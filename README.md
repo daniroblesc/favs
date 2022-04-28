@@ -12,3 +12,7 @@ This is a repository listing favorites links and other resources
 # Job Boards
 * [The Pragmatic Engineer](https://pragmatic-engineer.pallet.com/jobs)
 * [github.com/remote-es/remotes](https://github.com/remote-es/remotes)
+
+# Articles
+## Project Management
+* [Great engineering teams focus on milestones instead of projects](https://www.rubick.com/milestones-not-projects/)
