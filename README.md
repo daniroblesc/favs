@@ -17,12 +17,14 @@ This is a repository listing favorites links and other resources
 * [arc()](https://arc.dev/)
 
 # 4. Guides
+* [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 * [git - la guía sencilla](http://rogerdudler.github.io/git-guide/index.es.html)
 * [Writing Testable Code ](http://misko.hevery.com/attachments/Guide-Writing%20Testable%20Code.pdf)
 
 # 5. Tools
 * [PlantUML](https://plantuml.com/es/)
 * [Compiler Explorer](https://godbolt.org/)
+* [Epoch & Unix Timestamp Conversion Tools](https://www.epochconverter.com/)
 
 # 6. Repositories
 * [The Algorithms](https://github.com/TheAlgorithms)
