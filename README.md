@@ -5,9 +5,11 @@ This is a repository listing favorites links and other resources
 * [The talking bit](https://franiglesias.github.io/)
 * [The Pragmatic Engineer](https://blog.pragmaticengineer.com/)
 * [Félix López](https://flopezluis.medium.com/)
+* [Docplanner Tech](https://medium.com/docplanner-tech)
 
 # 2. Youtube
 * [The Pragmatic Engineer](https://www.youtube.com/channel/UCPbwhExawYrn9xxI21TFfyw)
+* [Dot CSV](https://www.youtube.com/channel/UCy5znSnfMsDwaLlROnZ7Qbg)
 
 # 3. Job Boards
 * [The Pragmatic Engineer](https://pragmatic-engineer.pallet.com/jobs)
@@ -18,7 +20,16 @@ This is a repository listing favorites links and other resources
 * [git - la guía sencilla](http://rogerdudler.github.io/git-guide/index.es.html)
 * [Writing Testable Code ](http://misko.hevery.com/attachments/Guide-Writing%20Testable%20Code.pdf)
 
-# 5. Articles
+# 5. Tools
+* [PlantUML](https://plantuml.com/es/)
+* [Compiler Explorer](https://godbolt.org/)
+
+# 6. Articles
+
+## Coding
+* [Demystifying C++ lambdas](https://blog.feabhas.com/2014/03/demystifying-c-lambdas/)
+* [Bitesize Modern C++: enum class](https://blog.feabhas.com/2015/06/bitesize-modern-c-enum-class/)
+* [Bitesize Modern C++ : Smart pointers](https://blog.feabhas.com/2015/10/bitesize-modern-c-smart-pointers/)
 
 ## OO Design
 * [The Liskov Substitution Principle Explained](https://reflectoring.io/lsp-explained/)
@@ -40,9 +51,15 @@ This is a repository listing favorites links and other resources
 * [Great engineering teams focus on milestones instead of projects](https://www.rubick.com/milestones-not-projects/)
 * [Efficient Software Project Management at its Roots](https://blog.pragmaticengineer.com/efficient-software-project-management-at-its-roots/)
 * [The Amazing DevOps Transformation Of The HP LaserJet Firmware Team](https://itrevolution.com/the-amazing-devops-transformation-of-the-hp-laserjet-firmware-team-gary-gruver/)
+* [Why SCRUM Sprints slow you down](https://medium.com/@__tosh/why-scrum-sprints-slow-you-down-3f33dba6f583)
+* [Understanding the Scrum Burndown Chart](https://www.methodsandtools.com/archive/scrumburndown.php)
 
 ## Management
 * [IF MANAGEMENT ISN’T A PROMOTION, THEN ENGINEERING ISN’T A DEMOTION](https://charity.wtf/2020/09/06/if-management-isnt-a-promotion-then-engineering-isnt-a-demotion/)
 
-# 6. Repositories
+## Cul de sac
+* [TechPays](https://techpays.eu/)
+
+# 7. Repositories
 * [The Algorithms](https://github.com/TheAlgorithms)
+* [AddressSanitizer](https://github.com/google/sanitizers/wiki/AddressSanitizer)
