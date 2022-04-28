@@ -17,6 +17,10 @@ This is a repository listing favorites links and other resources
 # Articles
 ## OO Design
 * [The Liskov Substitution Principle Explained](https://reflectoring.io/lsp-explained/)
+* [SOLID Design Principles Explained: The Liskov Substitution Principle with Code Examples](https://stackify.com/solid-design-liskov-substitution-principle/)
+
+## Coding
+* [Object Calisthenics](https://williamdurand.fr/2013/06/03/object-calisthenics/)
 
 ## Project Management
 * [Great engineering teams focus on milestones instead of projects](https://www.rubick.com/milestones-not-projects/)
