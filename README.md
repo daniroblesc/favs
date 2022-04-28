@@ -10,4 +10,5 @@ This is a repository listing favorites links and other resources
 * [The Pragmatic Engineer](https://www.youtube.com/channel/UCPbwhExawYrn9xxI21TFfyw)
 
 # Job Boards
-* [The Pragmatic Engineer] (https://pragmatic-engineer.pallet.com/jobs)
+* [The Pragmatic Engineer](https://pragmatic-engineer.pallet.com/jobs)
+* [github.com/remote-es/remotes](https://github.com/remote-es/remotes)
