@@ -24,7 +24,11 @@ This is a repository listing favorites links and other resources
 * [PlantUML](https://plantuml.com/es/)
 * [Compiler Explorer](https://godbolt.org/)
 
-# 6. Articles
+# 6. Repositories
+* [The Algorithms](https://github.com/TheAlgorithms)
+* [AddressSanitizer](https://github.com/google/sanitizers/wiki/AddressSanitizer)
+
+# 7. Articles
 
 ## Coding
 * [Demystifying C++ lambdas](https://blog.feabhas.com/2014/03/demystifying-c-lambdas/)
@@ -59,7 +63,3 @@ This is a repository listing favorites links and other resources
 
 ## Cul de sac
 * [TechPays](https://techpays.eu/)
-
-# 7. Repositories
-* [The Algorithms](https://github.com/TheAlgorithms)
-* [AddressSanitizer](https://github.com/google/sanitizers/wiki/AddressSanitizer)
