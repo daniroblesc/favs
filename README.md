@@ -22,6 +22,18 @@ This is a repository listing favorites links and other resources
 ## Coding
 * [Object Calisthenics](https://williamdurand.fr/2013/06/03/object-calisthenics/)
 
+## Refactoring
+* [Refactor 101. The camp rule](https://franiglesias.github.io/refactoring-camp-rule/)
+
+## Testing
+
 ## Project Management
 * [Great engineering teams focus on milestones instead of projects](https://www.rubick.com/milestones-not-projects/)
 * [Efficient Software Project Management at its Roots](https://blog.pragmaticengineer.com/efficient-software-project-management-at-its-roots/)
+
+## Management
+* [IF MANAGEMENT ISN’T A PROMOTION, THEN ENGINEERING ISN’T A DEMOTION](https://charity.wtf/2020/09/06/if-management-isnt-a-promotion-then-engineering-isnt-a-demotion/)
+
+# Repositories
+
+* [The Algorithms](https://github.com/TheAlgorithms)
