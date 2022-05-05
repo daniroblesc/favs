@@ -123,3 +123,60 @@ admit. Working with other people directly increases the collective wisdom behind
 the effort. Programming is hard. Software engineering is even harder. You need 
 that second pair of eyes.
 
+### Pace of Progress
+Here's another analogy. Think about how you work with your compiler. When you sit 
+down to write a large piece of software, do you spend days writing 10,000 lines of
+code, and then, after writing that final, perfect line, press the "compile" button
+for the very first time? Of course you don't. Can you imagine what sort of disaster
+would result? Programmers work best in tight feedback loops: write a new function,
+compile. Add a test, compile. Refactor some code, compile. This way, we discover 
+and fix typos and bugs as soon as possible after generating code.
+This is how we keep code quality high and make sure our software is evolving 
+correctly, bit by bit. The current DevOps philosophy toward tech productivity is 
+explicit about these sorts of goals: get feedback as early as possible, test as 
+early as possible, and think about security and production environments as early 
+as possible. This is all bundled into the idea of "shifting left" in the developer
+workflow; the earlier we find a problem, the cheaper it is to fix it.
+
+
+The same sort of rapid feedback loop is needed not just at the code level, but at 
+the whole-project level, too. Ambitious projects evolve quickly and must adapt to 
+changing environments as they go. How do you get that feedback loop so that you 
+know the instant your plans or designs need to change? Answer: by working in a team.
+
+### In Short, Don't Hide
+So, what "hiding" boils down to is this: working alone is inherently riskier than 
+working with others. Even though you might be afraid of someone stealing your idea 
+or thinking you're not intelligent, you should be much more concerned about wasting 
+huge swaths of your time toiling away on the wrong thing.
+
+## It's All About the Team
+
+The point we’ve been hammering away at is that, in the realm of programming, lone
+craftspeople are extremely rare—and even when they do exist, they don’t perform
+superhuman achievements in a vacuum; their world-changing accomplishment is
+almost always the result of a spark of inspiration followed by a heroic team effort.
+A great team makes brilliant use of its superstars, but the whole is always greater than
+the sum of its parts. But creating a superstar team is fiendishly difficult.
+Let’s put this idea into simpler words: *software engineering is a team endeavor*.
+
+This concept directly contradicts the inner Genius Programmer fantasy so many of us
+hold, but it’s not enough to be brilliant when you’re alone in your hacker’s lair. 
+You’re not going to change the world or delight millions of computer users by hiding 
+and preparing your secret invention. You need to work with other people. 
+Share your vision. Divide the labor. Learn from others. Create a brilliant team.
+
+### The Three Pillars of Social Interaction
+So, if teamwork is the best route to producing great software, how does one build (or
+find) a great team?
+To reach collaborative nirvana, you first need to learn and embrace what I call the
+“three pillars” of social skills.
++ *Pillar 1: Humility*
+You are not the center of the universe (nor is your code!). You’re neither 
+omniscient nor infallible. You’re open to self-improvement.
++ *Pillar 2: Respect*
+You genuinely care about others you work with. You treat them kindly and
+appreciate their abilities and accomplishments.
++ *Pillar 3: Trust*
+You believe others are competent and will do the right thing, and you’re OK with
+letting them drive when appropriate
