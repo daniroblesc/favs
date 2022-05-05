@@ -57,3 +57,69 @@ the face of those ideas. Programming is the immediate act of producing code.
 Software engineering is the set of policies, practices and tools that are necessary
 to make that code useful for as long as it needs to be used and allowing collaboration
 across a team.
+
+# 2. How to Work Well on Teams
+
+The critical idea in this chapter is that software development is a team endeavor. 
+And to succeed on an engineering team you need to reorganize your behaviors around
+the core principles of humility, respect and trust.
+
+## The Genius Myth
+Many humans have the instinct to find and worship idols. For software engineers,
+those might be Linus Torvalds or Bill Gates- all heroes who changed the world with
+heroic feats. Linus Torvalds wrote Linux  by himself, right? 
+
+Actually, what Linus did was write just the beginning of a proof-of-concept 
+Unix-like kernel and show it to an email list. Linux is hundreds of times bigger
+than that initial kernel and was developed by *thousands* of smart people. Linus's 
+real achievement was to lead these people and coordinate their work; Linux is the 
+shining result not of his original idea, but of the collective labor of the community.
+
+The Genius Myth is the tendency that we as humans need to ascribe the success 
+of a team to a single person/leader. Humans have a natural instinct to find leaders
+and role models, idolize them, and attempt to imitate them. We all need heroes for 
+inspiration, and the programming world has its heroes, too.
+
+But even if you are a genius, it turns out that that's not enough. Geniuses still
+make mistakes, and having brilliant ideas and elite programming skills doesn't 
+guarantee that your software will be a hit. Worse, you might find yourself solving
+only analytical problems and not *human* problems. Being a genius is most definitely
+not an excuse for being a jerk: anyone - genius or not - with poor social skills 
+tends to be a poor teammate. The vast majority of the work at Google doesn't require
+genius-level intellect, but 100% of the work requires a minimal level of social 
+skills. What will make or break your career is how well you collaborate with others.
+
+## Hiding Considered Harmful
+If you spend all of your time working alone, you're increasing the risk of unnecessary
+failure and cheating your potential for growth. 
+
+First of all, how do you even know whether you're on the right track?
+
+### Early Detection
+If you keep your great idea hidden from the world and refuse to show anyone 
+anything until the implementation is polished, you're taking a huge gamble. It's 
+easy to make fundamental design mistakes early on. You risk reinventing wheels.
+You need to make sure that you're working on the right thing, you're doing it 
+correctly, and it hasn't been done before.
+
+Early sharing isn't just about preventing personal missteps and getting your ideas 
+vetted. It's also important to strengthen what we call the bus factor of your project.
+
+### The Bus Factor
+*the number of people that need to get hit by a bus before your project is completely doomed*
+How dispersed is the knowledge and know-how in your project? If you're the only 
+person who understands how the prototype code works, you might enjoy good job 
+security- but if you get hit by a bus, the project is toast. If you have a small 
+team designing and prototyping together, things are better- the project won't be 
+marooned when a team member disappears. Ensuring that there is *at least* good 
+documentation in addition to a primary and a secondary owner for each area of 
+responsability helps future-proof your project's success and increases your project's 
+bus factor. Hopefully most engineers recognize that it is better to be one part 
+of a successful project than the critical part of a failed project.
+
+Beyond the bus factor, there's the issue of overall pace of progress. It's easy to 
+forget that working alone is often a tough slog, much slower than people want to
+admit. Working with other people directly increases the collective wisdom behind 
+the effort. Programming is hard. Software engineering is even harder. You need 
+that second pair of eyes.
+
