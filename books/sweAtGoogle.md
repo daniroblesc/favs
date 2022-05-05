@@ -23,3 +23,37 @@ As we expand that time to allow for longer life spans, change becomes more impor
 Over a span of a decade or more, most program dependencies, whether implicit or 
 explicit, will likely change. This recognition is at the root of our distinction 
 between software engineering and programming.
+
+This distinction is at the core of what we call *sustainability* for software.
+Your project is *sustainable* if, for the expected life span of your software, 
+your are capable of reacting to whatever valuable change comes along, for either
+technical or business reasons.
+
+Another way to look at software engineering is to consider scale. How many people
+are involved? What part do they play in the development and maintenance over time?
+A programming task is often an act of individual creation, but software engineering
+task is a team effort. Team collaboration presents new problems, but also provides
+more potential to produce valuable systems than any single programmer could.
+
+Team organization, project composition, and the policies and practices of a software
+project all dominate this aspect of software engineering complexity. These problems
+are inherent to scale: as the organization grows and its projects expand, does it 
+become more efficient at producing software? Does our development workflow become 
+more efficient as we grow, or do our version control policies and testing strategies
+cost us proportionally more?
+
+We can also say that software engineering is different from programming in terms of 
+the complexity of decisions that need to be made and their stakes. The job of a 
+software engineer, or a software engineering leader, is to aim for sustainability 
+and management of the scaling costs for the organization, the product and the 
+development workflow. With those inputs in mind, evaluate your trade-offs and make 
+rational decisions. 
+
+## Conclusion
+We believe it is important to differentiate between the related-but-distinct terms 
+"programming" and "software engineering". Much of that difference stems from the 
+management of code over time, the impact of time on scale, and decision making in 
+the face of those ideas. Programming is the immediate act of producing code. 
+Software engineering is the set of policies, practices and tools that are necessary
+to make that code useful for as long as it needs to be used and allowing collaboration
+across a team.
