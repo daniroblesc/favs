@@ -1,4 +1,4 @@
-# What is Software Engineering?
+# 1. What is Software Engineering?
 
 We see three critical differences between programming and software engineering: time, 
 scale and the trade-offs at play.
