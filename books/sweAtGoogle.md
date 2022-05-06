@@ -263,10 +263,10 @@ Knowledge fragmentation that occurs in different parts of an organization that
 don’t communicate with one another or use shared resources. In such an 
 environment, each group develops its own way of doing things. This often leads
 to the following:
-++ *Information fragmentation*
-Each island has an incomplete picture of the bigger whole.
-++ *Information duplication*
-Each island has reinvented its own way of doing something.
-++ *Information skew* 
-Each island has its own ways of doing the same thing, and these might or
-might not conflict.
+..+ *Information fragmentation*
+..Each island has an incomplete picture of the bigger whole.
+..+ *Information duplication*
+..Each island has reinvented its own way of doing something.
+..+ *Information skew* 
+..Each island has its own ways of doing the same thing, and these might or
+..might not conflict.
