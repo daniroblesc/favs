@@ -180,3 +180,50 @@ appreciate their abilities and accomplishments.
 + *Pillar 3: Trust*
 You believe others are competent and will do the right thing, and you’re OK with
 letting them drive when appropriate
+
+If you perform a root-cause analysis on almost any social conflict, you can ultimately
+trace it back to a lack of humility, respect, and/or trust.
+
+### Humility, Respect, and Trust in Practice
+
+#### Lose the ego
+Nobody wants to work with someone who consistently behaves like
+they’re the most important person in the room. Even if you know you’re the wisest
+person in the discussion, don’t wave it in people’s faces.
+
+Although it’s important to be humble, that doesn’t mean you need to be a doormat;
+there’s nothing wrong with self-confidence. Just don’t come off like a know-it-all.
+
+#### Learn to give and take criticism
+In a professional software engineering environment, criticism is almost never personal—
+it’s usually just part of the process of making a better project. The trick is to
+make sure you (and those around you) understand the difference between a constructive
+criticism of someone’s creative output and a flat-out assault against someone’s
+character.
+On the other side of the conversation, you need to learn to accept criticism as well.
+This means not just being humble about your skills, but trusting that the other person
+has your best interests (and those of your project!) at heart and doesn’t actually think
+you’re an idiot. Programming is a skill like anything else: it improves with practice. If
+a peer pointed out ways in which you could improve your juggling, would you take it
+as an attack on your character and value as a human being? We hope not. In the same
+way, your self-worth shouldn’t be connected to the code you write—or any creative
+project you build. To repeat ourselves: *you are not your code*. Say that over and over.
+You are not what you make. You need to not only believe it yourself, but get your
+coworkers to believe it, too
+
+### Blameless Post-Mortem Culture
+The key to learning from your mistakes is to document your failures by performing a
+root-cause analysis and writing up a *postmortem*. Take extra care to make sure the 
+postmortem document isn’t just a useless list of apologies or excuses or 
+finger-pointing—that’s not its purpose. A proper postmortem should always contain 
+an explanation of what was learned and what is going to change as a result of the 
+learning experience. Then, make sure that the postmortem is readily accessible and 
+that the team really follows through on the proposed changes.
+A good postmortem should include the following:
++ A brief summary of the event
++ A timeline of the event, from discovery through investigation to resolution
++ The primary cause of the event
++ Impact and damage assessment
++ A set of action items (with owners) to fix the problem immediately
++ A set of action items to prevent the event from happening again
++ Lessons learned
