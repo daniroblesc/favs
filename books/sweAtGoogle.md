@@ -227,3 +227,46 @@ A good postmortem should include the following:
 + A set of action items (with owners) to fix the problem immediately
 + A set of action items to prevent the event from happening again
 + Lessons learned
+
+## Conclusion
+The foundation for almost any software endeavor—of almost any size—is a wellfunctioning
+team. Although the Genius Myth of the solo software developer still persists,
+the truth is that no one really goes it alone. For a software organization to stand
+the test of time, it must have a healthy culture, rooted in humility, trust, and respect
+that revolves around the team, rather than the individual. Further, the creative nature
+of software development requires that people take risks and occasionally fail; for people
+to accept that failure, a healthy team environment must exist.
+
+# 3. Knowledge Sharing
+Your organization understands your problem domain better than some random person
+on the internet; your organization should be able to answer most of its own questions.
+To achieve that, you need both experts who know the answers to those
+questions and mechanisms to distribute their knowledge, which is what we’ll explore
+in this chapter. These mechanisms range from the utterly simple (Ask questions;
+Write down what you know) to the much more structured, such as tutorials and
+classes. Most importantly, however, your organization needs a *culture of learning*, 
+and that requires creating the psychological safety that permits people to admit 
+to a lack of knowledge.
+
+## Challenges to Learning
+Sharing expertise across an organization is not an easy task. Without a strong 
+culture of learning, challenges can emerge. Google has experienced a number of 
+these challenges, especially as the company has scaled:
+
++ *Lack of psychological safety*
+An environment in which people are afraid to take risks or make mistakes in
+front of others because they fear being punished for it. This often manifests as
+a culture of fear or a tendency to avoid transparency.
+
++ *Information islands*
+Knowledge fragmentation that occurs in different parts of an organization that
+don’t communicate with one another or use shared resources. In such an 
+environment, each group develops its own way of doing things. This often leads
+to the following:
+++ *Information fragmentation*
+Each island has an incomplete picture of the bigger whole.
+++ *Information duplication*
+Each island has reinvented its own way of doing something.
+++ *Information skew* 
+Each island has its own ways of doing the same thing, and these might or
+might not conflict.
