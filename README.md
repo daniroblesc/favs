@@ -15,6 +15,9 @@ This is a repository listing favorites links and other resources
 * [The Pragmatic Engineer](https://pragmatic-engineer.pallet.com/jobs)
 * [github.com/remote-es/remotes](https://github.com/remote-es/remotes)
 * [arc()](https://arc.dev/)
+* [trueup](https://www.trueup.io/)
+* [getmanfred](https://www.getmanfred.com/ofertas-empleo)
+* 
 
 # 4. Guides
 * [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
