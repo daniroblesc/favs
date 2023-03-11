@@ -17,7 +17,6 @@ This is a repository listing favorites links and other resources
 * [arc()](https://arc.dev/)
 * [trueup](https://www.trueup.io/)
 * [getmanfred](https://www.getmanfred.com/ofertas-empleo)
-* 
 
 # 4. Guides
 * [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
