@@ -6,6 +6,7 @@ This is a repository listing favorites links and other resources
 * [The Pragmatic Engineer](https://blog.pragmaticengineer.com/)
 * [Félix López](https://flopezluis.medium.com/)
 * [Docplanner Tech](https://medium.com/docplanner-tech)
+* [Fluent{C++}](https://www.fluentcpp.com/)
 
 # 2. Youtube
 * [The Pragmatic Engineer](https://www.youtube.com/channel/UCPbwhExawYrn9xxI21TFfyw)
@@ -22,6 +23,8 @@ This is a repository listing favorites links and other resources
 * [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 * [git - la guía sencilla](http://rogerdudler.github.io/git-guide/index.es.html)
 * [Writing Testable Code ](http://misko.hevery.com/attachments/Guide-Writing%20Testable%20Code.pdf)
+* [C++ project setup with CMake & unit tests (google test)](https://raymii.org/s/tutorials/Cpp_project_setup_with_cmake_and_unit_tests.html)
+* [Using GCC with MinGW](https://code.visualstudio.com/docs/cpp/config-mingw)
 
 # 5. Tools
 * [PlantUML](https://plantuml.com/es/)
@@ -33,6 +36,7 @@ This is a repository listing favorites links and other resources
 # 6. Repositories
 * [The Algorithms](https://github.com/TheAlgorithms)
 * [AddressSanitizer](https://github.com/google/sanitizers/wiki/AddressSanitizer)
+* [Build your own X](https://github.com/codecrafters-io/build-your-own-x)
 
 # 7. Books
 [99 Bottles of OOP](/books/99BottlesOfOOP.md)
