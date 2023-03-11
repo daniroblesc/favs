@@ -25,6 +25,8 @@ This is a repository listing favorites links and other resources
 * [PlantUML](https://plantuml.com/es/)
 * [Compiler Explorer](https://godbolt.org/)
 * [Epoch & Unix Timestamp Conversion Tools](https://www.epochconverter.com/)
+* [Basic Git commands](https://confluence.atlassian.com/bitbucketserver/basic-git-commands-776639767.html)
+* [Doxygen](https://www.doxygen.nl/index.html)
 
 # 6. Repositories
 * [The Algorithms](https://github.com/TheAlgorithms)
