@@ -77,3 +77,4 @@ This is a repository listing favorites links and other resources
 
 ## Cul de sac
 * [TechPays](https://techpays.eu/)
+* [Codenames Operations of ww2](https://codenames.info/browse/)
